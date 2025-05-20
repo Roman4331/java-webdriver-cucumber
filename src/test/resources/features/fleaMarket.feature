@@ -1,4 +1,4 @@
-@fleaMarket
+@fleaMarket @predefined
 Feature: Automate Flea Market E2E Flow (or Checkout)
 
   @flea1
